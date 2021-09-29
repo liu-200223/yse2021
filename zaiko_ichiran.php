@@ -93,7 +93,7 @@ if (/* ②の処理を書く */){
 							echo "<td id='price'>/* ⑰priceを表示する */</td>";
 							echo "<td id='stock'>/* ⑱stockを表示する */</td>";
 
-							echo "</tr>";
+							//echo "</tr>";
 						}
 						?>
 					</tbody>
